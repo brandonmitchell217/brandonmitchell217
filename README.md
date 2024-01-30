@@ -5,7 +5,7 @@
    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" />
 
 <div>
-   <a href="https://www.linkedin.com/in/brandonmitchell217/">
+   <a href="https://www.linkedin.com/in/brandonmitchell217">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a href="mailto:brandonmitchell217@gmail.com">
@@ -21,8 +21,7 @@
 
 - 💼 I am currently open to new opportunities, please reach out if you'd like to work together!
 - 🌱 I have recently been learning more on using databases & working with backend development
-- 👨‍👩‍👧‍👦 Outside of work, I am usually spending time with my family.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brandonmitchell217/") || [brandonmitchell217@gmail.com](mailto:brandonmitchell217@gmail.com)
+- 👨‍👩‍👧‍👦 Outside of work you'll usually find me spending time with my family.
 
 ---
 
