@@ -20,7 +20,7 @@
 </div>
 
 - 💼 I am currently open to new opportunities, please reach out if you'd like to work together!
-- 🌱 I have recently been learning more on using databases & working with backend development
+- 🌱 I have recently been working more with relational databases & backend development
 - 👨‍👩‍👧‍👦 Outside of work you'll usually find me spending time with my family.
 
 ---
