@@ -1,5 +1,5 @@
 
-## Brandon Mitchell - Frontend Developer
+## Brandon Mitchell - Software Developer
 
 <div align="center">
    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" />
@@ -16,7 +16,7 @@
 
 <div>
    <h2>Hey there! 👋</h2>
-   <p>I'm a frontend developer from Raleigh, NC.</p>
+   <p>I'm a software developer from Raleigh, NC.</p>
 </div>
 
 - 💼 I am currently open to new opportunities, please reach out if you'd like to work together!
