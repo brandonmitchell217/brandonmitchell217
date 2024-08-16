@@ -19,7 +19,7 @@
    <p>I'm a software developer from Raleigh, NC.</p>
 </div>
 
-- 💼 I am currently open to new opportunities, please reach out if you'd like to work together!
+- 💼 I am currently working as a Frontend Developer at <a href="https://www.molestreet.com/">Mole Street</a>
 - 🌱 I have recently been working more with relational databases & backend development
 - 👨‍👩‍👧‍👦 Outside of work you'll usually find me spending time with my family.
 
